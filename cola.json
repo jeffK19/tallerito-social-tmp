@@ -1,0 +1,175 @@
+{
+  "cuenta_instagram": "17841457245323472",
+  "conector": "instagram",
+  "items": [
+    {
+      "id": "h1-bienvenida",
+      "fecha_utc": "2026-10-31T17:30:00Z",
+      "tipo": "historia",
+      "urls": [
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/historias/h1-bienvenida.jpg"
+      ],
+      "estado": "pendiente"
+    },
+    {
+      "id": "reel-9",
+      "fecha_utc": "2026-11-01T00:30:00Z",
+      "tipo": "reel",
+      "urls": [
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/reels/reel-9-asi-no-me-lo-dejaron.mp4"
+      ],
+      "estado": "pendiente",
+      "caption": "«Así no me lo dejaron.» Si ya lo escuchaste, esto es para ti: checklist al recibir, foto de cómo quedó y la calificación de tu cliente. Menos reclamos, más confianza. Prueba 14 días gratis, link en la bio. #tallerito #pymesperu #negociosperu #emprendedoresperu",
+      "cover_url": "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/reels/reel-9-asi-no-me-lo-dejaron-portada.jpg"
+    },
+    {
+      "id": "destacados",
+      "fecha_utc": "2026-11-01T17:30:00Z",
+      "tipo": "historias",
+      "urls": [
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/historias/d-como-1.jpg",
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/historias/d-como-2.jpg",
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/historias/d-como-3.jpg",
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/historias/d-quien-1.jpg",
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/historias/d-roles-1.jpg",
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/historias/d-roles-2.jpg",
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/historias/d-roles-3.jpg",
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/historias/d-precios-1.jpg",
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/historias/d-precios-2.jpg",
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/historias/d-prueba-1.jpg",
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/historias/d-preguntas-1.jpg",
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/historias/d-preguntas-2.jpg",
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/historias/d-preguntas-3.jpg"
+      ],
+      "estado": "pendiente"
+    },
+    {
+      "id": "c2",
+      "fecha_utc": "2026-11-03T00:30:00Z",
+      "tipo": "carrusel",
+      "urls": [
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/carruseles/c2-antes-despues/01.jpg",
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/carruseles/c2-antes-despues/02.jpg",
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/carruseles/c2-antes-despues/03.jpg",
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/carruseles/c2-antes-despues/04.jpg",
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/carruseles/c2-antes-despues/05.jpg",
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/carruseles/c2-antes-despues/06.jpg",
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/carruseles/c2-antes-despues/07.jpg"
+      ],
+      "estado": "pendiente",
+      "caption": "Mismo taller, dos formas de trabajar: con cuaderno y con Tallerito. Mira cómo cambia recibir, avisar, cobrar, cerrar el día y entregar.\n\nCinco momentos del día que hoy te quitan tiempo. ¿Cuál es el que más te pesa?\n\nPruébalo 14 días gratis, link en la bio.\n\n#tallerito #pymesperu #negociosperu #emprendedoresperu"
+    },
+    {
+      "id": "h2-pregunta",
+      "fecha_utc": "2026-11-03T17:30:00Z",
+      "tipo": "historia",
+      "urls": [
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/historias/h2-pregunta.jpg"
+      ],
+      "estado": "pendiente"
+    },
+    {
+      "id": "p2",
+      "fecha_utc": "2026-11-05T00:30:00Z",
+      "tipo": "imagen",
+      "urls": [
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/posts/p2-ya-esta.jpg"
+      ],
+      "estado": "pendiente",
+      "caption": "«¿Ya está mi moto?»\n\nTú, con las manos llenas de grasa, contestando otra vez. Cuéntanos: ¿cuál es la pregunta que más te repiten en tu taller?\n\nPruébalo 14 días gratis, link en la bio.\n\n#tallerito #pymesperu #negociosperu #emprendedoresperu"
+    },
+    {
+      "id": "h3-tip",
+      "fecha_utc": "2026-11-05T17:30:00Z",
+      "tipo": "historia",
+      "urls": [
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/historias/h3-tip.jpg"
+      ],
+      "estado": "pendiente"
+    },
+    {
+      "id": "reel-10",
+      "fecha_utc": "2026-11-07T00:30:00Z",
+      "tipo": "reel",
+      "urls": [
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/reels/reel-10-nadie-sin-pagar.mp4"
+      ],
+      "estado": "pendiente",
+      "caption": "«Mañana te pago.» Con Tallerito tu cliente sube su captura de Yape, tú la confirmas con un toque y no se entrega un trabajo con saldo sin que lo autorice el gerente. Prueba 14 días gratis, link en la bio. #tallerito #pymesperu #negociosperu #emprendedoresperu",
+      "cover_url": "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/reels/reel-10-nadie-sin-pagar-portada.jpg"
+    },
+    {
+      "id": "h4-pregunta-clientes",
+      "fecha_utc": "2026-11-07T17:30:00Z",
+      "tipo": "historia",
+      "urls": [
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/historias/h4-pregunta-clientes.jpg"
+      ],
+      "estado": "pendiente"
+    },
+    {
+      "id": "p1",
+      "fecha_utc": "2026-11-08T00:30:00Z",
+      "tipo": "imagen",
+      "urls": [
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/posts/p1-cuaderno.jpg"
+      ],
+      "estado": "pendiente",
+      "caption": "Un cuaderno no es un sistema. Es un lugar donde las órdenes se pierden con calma.\n\nSi lo piensas igual, mándaselo a ese amigo que todavía anota todo a mano.\n\nPruébalo 14 días gratis, link en la bio.\n\n#tallerito #pymesperu #negociosperu #emprendedoresperu"
+    },
+    {
+      "id": "c3",
+      "fecha_utc": "2026-11-10T00:30:00Z",
+      "tipo": "carrusel",
+      "urls": [
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/carruseles/c3-quien-ve-que/01.jpg",
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/carruseles/c3-quien-ve-que/02.jpg",
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/carruseles/c3-quien-ve-que/03.jpg",
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/carruseles/c3-quien-ve-que/04.jpg",
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/carruseles/c3-quien-ve-que/05.jpg",
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/carruseles/c3-quien-ve-que/06.jpg"
+      ],
+      "estado": "pendiente",
+      "caption": "Tu técnico no debería ver cuánto vendiste. Así queda lo que ve cada quien en Tallerito: gerente, jefe de técnicos y técnico.\n\nLos permisos los valida la base de datos, no solo la pantalla. El jefe de técnicos es del plan Pro.\n\nPruébalo 14 días gratis, link en la bio.\n\n#tallerito #pymesperu #negociosperu #emprendedoresperu"
+    },
+    {
+      "id": "h5-roles",
+      "fecha_utc": "2026-11-10T17:30:00Z",
+      "tipo": "historia",
+      "urls": [
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/historias/h5-roles.jpg"
+      ],
+      "estado": "pendiente"
+    },
+    {
+      "id": "reel-7",
+      "fecha_utc": "2026-11-12T00:30:00Z",
+      "tipo": "reel",
+      "urls": [
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/reels/reel-7-todo-servicio.mp4"
+      ],
+      "estado": "pendiente",
+      "caption": "¿Ya está mi bici? ¿Ya está mi carro? ¿Ya está mi pantalón? Si recibes algo y lo devuelves arreglado, te lo preguntan todos los días. Tallerito: tus órdenes en el celular y tu cliente viendo su avance. Pruébalo 14 días gratis, link en la bio. #tallerito #pymesperu #negociosperu #emprendedoresperu",
+      "cover_url": "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/reels/reel-7-todo-servicio-portada.jpg"
+    },
+    {
+      "id": "h6-prueba",
+      "fecha_utc": "2026-11-12T17:30:00Z",
+      "tipo": "historia",
+      "urls": [
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/historias/h6-prueba.jpg"
+      ],
+      "estado": "pendiente"
+    },
+    {
+      "id": "p4",
+      "fecha_utc": "2026-11-14T00:30:00Z",
+      "tipo": "imagen",
+      "urls": [
+        "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/posts/p4-oferta.jpg"
+      ],
+      "estado": "pendiente",
+      "caption": "14 días gratis, con todo el plan Pro y sin tarjeta. Después, desde S/ 49 al mes.\n\nEscríbenos por WhatsApp al +51 913 106 357 o entra por el link en la bio.\n\n#tallerito #pymesperu #negociosperu #emprendedoresperu"
+    }
+  ]
+}
