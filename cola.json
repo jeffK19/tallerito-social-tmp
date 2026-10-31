@@ -9,7 +9,8 @@
       "urls": [
         "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/historias/h1-bienvenida.jpg"
       ],
-      "estado": "pendiente"
+      "estado": "publicado",
+      "publicado_utc": "2026-10-31T17:36:17Z"
     },
     {
       "id": "reel-9",
