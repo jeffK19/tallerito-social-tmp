@@ -19,9 +19,10 @@
       "urls": [
         "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/reels/reel-9-asi-no-me-lo-dejaron.mp4"
       ],
-      "estado": "pendiente",
+      "estado": "publicado",
       "caption": "«Así no me lo dejaron.» Si ya lo escuchaste, esto es para ti: checklist al recibir, foto de cómo quedó y la calificación de tu cliente. Menos reclamos, más confianza. Prueba 14 días gratis, link en la bio. #tallerito #pymesperu #negociosperu #emprendedoresperu",
-      "cover_url": "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/reels/reel-9-asi-no-me-lo-dejaron-portada.jpg"
+      "cover_url": "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/reels/reel-9-asi-no-me-lo-dejaron-portada.jpg",
+      "publicado_utc": "2026-11-01T00:37:00Z"
     },
     {
       "id": "destacados",
