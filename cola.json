@@ -43,7 +43,9 @@
         "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/historias/d-preguntas-2.jpg",
         "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/historias/d-preguntas-3.jpg"
       ],
-      "estado": "pendiente"
+      "estado": "publicado",
+      "publicado_utc": "2026-11-01T17:39:16Z",
+      "historias_publicadas": 13
     },
     {
       "id": "c2",
