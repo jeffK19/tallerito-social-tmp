@@ -71,7 +71,8 @@
       "urls": [
         "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/historias/h2-pregunta.jpg"
       ],
-      "estado": "pendiente"
+      "estado": "publicado",
+      "publicado_utc": "2026-11-03T17:37:00Z"
     },
     {
       "id": "p2",
