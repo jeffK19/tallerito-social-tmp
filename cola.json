@@ -92,7 +92,8 @@
       "urls": [
         "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/historias/h3-tip.jpg"
       ],
-      "estado": "pendiente"
+      "estado": "publicado",
+      "publicado_utc": "2026-11-05T17:35:57Z"
     },
     {
       "id": "reel-10",
