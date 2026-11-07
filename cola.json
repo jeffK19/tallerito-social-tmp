@@ -102,9 +102,10 @@
       "urls": [
         "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/reels/reel-10-nadie-sin-pagar.mp4"
       ],
-      "estado": "pendiente",
+      "estado": "publicado",
       "caption": "«Mañana te pago.» Con Tallerito tu cliente sube su captura de Yape, tú la confirmas con un toque y no se entrega un trabajo con saldo sin que lo autorice el gerente. Prueba 14 días gratis, link en la bio. #tallerito #pymesperu #negociosperu #emprendedoresperu",
-      "cover_url": "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/reels/reel-10-nadie-sin-pagar-portada.jpg"
+      "cover_url": "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/reels/reel-10-nadie-sin-pagar-portada.jpg",
+      "publicado_utc": "2026-11-07T17:37:22Z"
     },
     {
       "id": "h4-pregunta-clientes",
@@ -113,7 +114,8 @@
       "urls": [
         "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/historias/h4-pregunta-clientes.jpg"
       ],
-      "estado": "pendiente"
+      "estado": "publicado",
+      "publicado_utc": "2026-11-07T17:37:22Z"
     },
     {
       "id": "p1",
