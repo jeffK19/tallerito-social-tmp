@@ -151,7 +151,8 @@
       "urls": [
         "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/historias/h5-roles.jpg"
       ],
-      "estado": "pendiente"
+      "estado": "publicado",
+      "publicado_utc": "2026-11-10T17:42:16Z"
     },
     {
       "id": "reel-7",
