@@ -173,7 +173,8 @@
       "urls": [
         "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/historias/h6-prueba.jpg"
       ],
-      "estado": "pendiente"
+      "estado": "publicado",
+      "publicado_utc": "2026-11-12T17:36:39Z"
     },
     {
       "id": "p4",
