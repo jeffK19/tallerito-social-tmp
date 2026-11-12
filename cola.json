@@ -161,9 +161,10 @@
       "urls": [
         "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/reels/reel-7-todo-servicio.mp4"
       ],
-      "estado": "pendiente",
+      "estado": "publicado",
       "caption": "¿Ya está mi bici? ¿Ya está mi carro? ¿Ya está mi pantalón? Si recibes algo y lo devuelves arreglado, te lo preguntan todos los días. Tallerito: tus órdenes en el celular y tu cliente viendo su avance. Pruébalo 14 días gratis, link en la bio. #tallerito #pymesperu #negociosperu #emprendedoresperu",
-      "cover_url": "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/reels/reel-7-todo-servicio-portada.jpg"
+      "cover_url": "https://raw.githubusercontent.com/jeffK19/tallerito-social-tmp/main/media/reels/reel-7-todo-servicio-portada.jpg",
+      "publicado_utc": "2026-11-12T00:37:00Z"
     },
     {
       "id": "h6-prueba",
